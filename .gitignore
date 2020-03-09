@@ -1,0 +1,8 @@
+# dependencies
+
+/node_modules/ 
+
+# carpeta donde se almacenan las imagenes
+
+/upload/
+
