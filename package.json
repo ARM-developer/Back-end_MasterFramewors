@@ -10,9 +10,9 @@
   "author": "Alejandro Ruiz",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "connect-multiparty": "^2.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.3",
     "validator": "^12.2.0"
   },
